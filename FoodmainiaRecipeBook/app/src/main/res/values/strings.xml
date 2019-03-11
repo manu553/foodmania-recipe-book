@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Foodmainia Recipe Book</string>
+    <string-array name="versions">
+        <item>Version 1</item>
+        <item>Version 2 (higher temp)</item>
+    </string-array>
 </resources>

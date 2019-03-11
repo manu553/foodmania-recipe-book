@@ -18,4 +18,10 @@ public class HomeActivity extends AppCompatActivity {
 
         startActivity( intent );
     }
+
+    public void onCreateRecipe(View v) {
+        Intent intent = new Intent(this, SingleRecipeViewActivity.class);
+
+        startActivity( intent );
+    }
 }
